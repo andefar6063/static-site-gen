@@ -1,0 +1,1 @@
+This is a project I made using Python. What it does, is that it creates a blog from markdown files.
